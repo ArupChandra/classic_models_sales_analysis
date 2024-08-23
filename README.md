@@ -15,3 +15,4 @@ PowerBI
 Power Query Editor
 
 ### Dashboard Overview
+![Dashboard Screenshot](https://github.com/user-attachments/assets/7e16e3e6-3678-4e2e-9cd7-ae753dba4bb4)
