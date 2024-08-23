@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales reports of th
 
 ### Data Source
 
-Classic Models Data : The datasets used for this analysis is in classic_models folder consisting of different 'csv' files, containing detailed information about each sales.
+Classic Models Data : The datasets used for this analysis is in "classicmodels" folder consisting of different 'csv' files, containing detailed information about each sales.
 
 ### Tools
 
